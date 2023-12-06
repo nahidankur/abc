@@ -1,0 +1,15 @@
+.adthrive-footer {
+z-index:10000001 !important;
+}
+
+body.adthrive-device-desktop .wprm-recipe .adthrive-recipe  {
+float: right;
+clear: left;
+margin-left: 10px;
+}
+
+body.osetin_recipe-template-default.adthrive-device-desktop .adthrive-player-position, body.osetin_recipe-template-default.adthrive-device-tablet .adthrive-player-position {
+    bottom: 100px;
+    left: 5px;
+}
+
